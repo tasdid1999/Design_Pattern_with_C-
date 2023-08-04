@@ -1,0 +1,15 @@
+C:\Users\tasdi\OneDrive\Desktop\IDP_2 project\DesignPatternPractice\DesignPatternPractice\bin\Debug\net6.0\DesignPatternPractice.exe
+C:\Users\tasdi\OneDrive\Desktop\IDP_2 project\DesignPatternPractice\DesignPatternPractice\bin\Debug\net6.0\DesignPatternPractice.deps.json
+C:\Users\tasdi\OneDrive\Desktop\IDP_2 project\DesignPatternPractice\DesignPatternPractice\bin\Debug\net6.0\DesignPatternPractice.runtimeconfig.json
+C:\Users\tasdi\OneDrive\Desktop\IDP_2 project\DesignPatternPractice\DesignPatternPractice\bin\Debug\net6.0\DesignPatternPractice.dll
+C:\Users\tasdi\OneDrive\Desktop\IDP_2 project\DesignPatternPractice\DesignPatternPractice\bin\Debug\net6.0\DesignPatternPractice.pdb
+C:\Users\tasdi\OneDrive\Desktop\IDP_2 project\DesignPatternPractice\DesignPatternPractice\obj\Debug\net6.0\DesignPatternPractice.csproj.AssemblyReference.cache
+C:\Users\tasdi\OneDrive\Desktop\IDP_2 project\DesignPatternPractice\DesignPatternPractice\obj\Debug\net6.0\DesignPatternPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tasdi\OneDrive\Desktop\IDP_2 project\DesignPatternPractice\DesignPatternPractice\obj\Debug\net6.0\DesignPatternPractice.AssemblyInfoInputs.cache
+C:\Users\tasdi\OneDrive\Desktop\IDP_2 project\DesignPatternPractice\DesignPatternPractice\obj\Debug\net6.0\DesignPatternPractice.AssemblyInfo.cs
+C:\Users\tasdi\OneDrive\Desktop\IDP_2 project\DesignPatternPractice\DesignPatternPractice\obj\Debug\net6.0\DesignPatternPractice.csproj.CoreCompileInputs.cache
+C:\Users\tasdi\OneDrive\Desktop\IDP_2 project\DesignPatternPractice\DesignPatternPractice\obj\Debug\net6.0\DesignPatternPractice.dll
+C:\Users\tasdi\OneDrive\Desktop\IDP_2 project\DesignPatternPractice\DesignPatternPractice\obj\Debug\net6.0\refint\DesignPatternPractice.dll
+C:\Users\tasdi\OneDrive\Desktop\IDP_2 project\DesignPatternPractice\DesignPatternPractice\obj\Debug\net6.0\DesignPatternPractice.pdb
+C:\Users\tasdi\OneDrive\Desktop\IDP_2 project\DesignPatternPractice\DesignPatternPractice\obj\Debug\net6.0\DesignPatternPractice.genruntimeconfig.cache
+C:\Users\tasdi\OneDrive\Desktop\IDP_2 project\DesignPatternPractice\DesignPatternPractice\obj\Debug\net6.0\ref\DesignPatternPractice.dll
