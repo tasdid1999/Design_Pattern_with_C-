@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tasdi\\OneDrive\\Desktop\\IDP_2 project\\DesignPatternPractice\\StrategyDesignPattren\\StrategyDesignPattren.csproj",
+      "projectUniqueName": "E:\\IDP_2 project\\DesignPatternPractice\\StrategyDesignPattren\\StrategyDesignPattren.csproj",
       "projectName": "StrategyDesignPattren",
-      "projectPath": "C:\\Users\\tasdi\\OneDrive\\Desktop\\IDP_2 project\\DesignPatternPractice\\StrategyDesignPattren\\StrategyDesignPattren.csproj",
+      "projectPath": "E:\\IDP_2 project\\DesignPatternPractice\\StrategyDesignPattren\\StrategyDesignPattren.csproj",
       "packagesPath": "C:\\Users\\tasdi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tasdi\\OneDrive\\Desktop\\IDP_2 project\\DesignPatternPractice\\StrategyDesignPattren\\obj\\",
+      "outputPath": "E:\\IDP_2 project\\DesignPatternPractice\\StrategyDesignPattren\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tasdi\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,15 @@
+E:\IDP_2 project\DesignPatternPractice\SingleTon\bin\Debug\net6.0\SingleTon.exe
+E:\IDP_2 project\DesignPatternPractice\SingleTon\bin\Debug\net6.0\SingleTon.deps.json
+E:\IDP_2 project\DesignPatternPractice\SingleTon\bin\Debug\net6.0\SingleTon.runtimeconfig.json
+E:\IDP_2 project\DesignPatternPractice\SingleTon\bin\Debug\net6.0\SingleTon.dll
+E:\IDP_2 project\DesignPatternPractice\SingleTon\bin\Debug\net6.0\SingleTon.pdb
+E:\IDP_2 project\DesignPatternPractice\SingleTon\obj\Debug\net6.0\SingleTon.csproj.AssemblyReference.cache
+E:\IDP_2 project\DesignPatternPractice\SingleTon\obj\Debug\net6.0\SingleTon.GeneratedMSBuildEditorConfig.editorconfig
+E:\IDP_2 project\DesignPatternPractice\SingleTon\obj\Debug\net6.0\SingleTon.AssemblyInfoInputs.cache
+E:\IDP_2 project\DesignPatternPractice\SingleTon\obj\Debug\net6.0\SingleTon.AssemblyInfo.cs
+E:\IDP_2 project\DesignPatternPractice\SingleTon\obj\Debug\net6.0\SingleTon.csproj.CoreCompileInputs.cache
+E:\IDP_2 project\DesignPatternPractice\SingleTon\obj\Debug\net6.0\SingleTon.dll
+E:\IDP_2 project\DesignPatternPractice\SingleTon\obj\Debug\net6.0\refint\SingleTon.dll
+E:\IDP_2 project\DesignPatternPractice\SingleTon\obj\Debug\net6.0\SingleTon.pdb
+E:\IDP_2 project\DesignPatternPractice\SingleTon\obj\Debug\net6.0\SingleTon.genruntimeconfig.cache
+E:\IDP_2 project\DesignPatternPractice\SingleTon\obj\Debug\net6.0\ref\SingleTon.dll

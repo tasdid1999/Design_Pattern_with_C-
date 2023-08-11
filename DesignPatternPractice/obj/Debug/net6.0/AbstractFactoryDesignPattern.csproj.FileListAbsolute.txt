@@ -1,0 +1,15 @@
+E:\IDP_2 project\DesignPatternPractice\DesignPatternPractice\bin\Debug\net6.0\AbstractFactoryDesignPattern.exe
+E:\IDP_2 project\DesignPatternPractice\DesignPatternPractice\bin\Debug\net6.0\AbstractFactoryDesignPattern.deps.json
+E:\IDP_2 project\DesignPatternPractice\DesignPatternPractice\bin\Debug\net6.0\AbstractFactoryDesignPattern.runtimeconfig.json
+E:\IDP_2 project\DesignPatternPractice\DesignPatternPractice\bin\Debug\net6.0\AbstractFactoryDesignPattern.dll
+E:\IDP_2 project\DesignPatternPractice\DesignPatternPractice\bin\Debug\net6.0\AbstractFactoryDesignPattern.pdb
+E:\IDP_2 project\DesignPatternPractice\DesignPatternPractice\obj\Debug\net6.0\AbstractFactoryDesignPattern.csproj.AssemblyReference.cache
+E:\IDP_2 project\DesignPatternPractice\DesignPatternPractice\obj\Debug\net6.0\AbstractFactoryDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\IDP_2 project\DesignPatternPractice\DesignPatternPractice\obj\Debug\net6.0\AbstractFactoryDesignPattern.AssemblyInfoInputs.cache
+E:\IDP_2 project\DesignPatternPractice\DesignPatternPractice\obj\Debug\net6.0\AbstractFactoryDesignPattern.AssemblyInfo.cs
+E:\IDP_2 project\DesignPatternPractice\DesignPatternPractice\obj\Debug\net6.0\AbstractFactoryDesignPattern.csproj.CoreCompileInputs.cache
+E:\IDP_2 project\DesignPatternPractice\DesignPatternPractice\obj\Debug\net6.0\AbstractFactoryDesignPattern.dll
+E:\IDP_2 project\DesignPatternPractice\DesignPatternPractice\obj\Debug\net6.0\refint\AbstractFactoryDesignPattern.dll
+E:\IDP_2 project\DesignPatternPractice\DesignPatternPractice\obj\Debug\net6.0\AbstractFactoryDesignPattern.pdb
+E:\IDP_2 project\DesignPatternPractice\DesignPatternPractice\obj\Debug\net6.0\AbstractFactoryDesignPattern.genruntimeconfig.cache
+E:\IDP_2 project\DesignPatternPractice\DesignPatternPractice\obj\Debug\net6.0\ref\AbstractFactoryDesignPattern.dll
